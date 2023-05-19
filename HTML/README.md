@@ -13,7 +13,7 @@
   - [X] [Nossos objetivos neste módulo](https://cronograma-ignite.notion.site/Nossos-objetivos-neste-m-dulo-47f1e085a12a453cbb2afb4ca0b3f9f8)
   - [X] [Conhecendo o HTML 5](https://cronograma-ignite.notion.site/Conhecendo-o-HTML-5-bf770c65c41547b4920e7dc93ec33949)
   - [X] [Estrutura de uma página Web](https://cronograma-ignite.notion.site/Estrutura-de-uma-p-gina-Web-1102ce3f6988444cbe2eb6fbed6d2f33)
-  - [ ] [Tags básicas do HTML](#)
+  - [X] [Tags básicas do HTML](https://cronograma-ignite.notion.site/Tags-b-sicas-do-HTML-fae73ca807254352b517f733f11b1fdd)
   - [ ] [Listas no HTML](#)
   - [ ] [Exercício: Criando uma lista](#)
   - [ ] [Resolução: Criando uma lista](#)
