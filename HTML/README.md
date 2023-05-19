@@ -10,7 +10,7 @@
 
 - [ ] [**HTML5**](#)
 
-  - [ ] [Nossos objetivos neste módulo](#)
+  - [X] [Nossos objetivos neste módulo](https://cronograma-ignite.notion.site/Nossos-objetivos-neste-m-dulo-47f1e085a12a453cbb2afb4ca0b3f9f8)
   - [ ] [Conhecendo o HTML 5](#)
   - [ ] [Estrutura de uma página Web](#)
   - [ ] [Tags básicas do HTML](#)
