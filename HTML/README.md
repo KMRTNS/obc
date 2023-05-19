@@ -11,7 +11,7 @@
 - [ ] [**HTML5**](#)
 
   - [X] [Nossos objetivos neste módulo](https://cronograma-ignite.notion.site/Nossos-objetivos-neste-m-dulo-47f1e085a12a453cbb2afb4ca0b3f9f8)
-  - [ ] [Conhecendo o HTML 5](#)
+  - [ ] [Conhecendo o HTML 5](https://cronograma-ignite.notion.site/Conhecendo-o-HTML-5-bf770c65c41547b4920e7dc93ec33949)
   - [ ] [Estrutura de uma página Web](#)
   - [ ] [Tags básicas do HTML](#)
   - [ ] [Listas no HTML](#)
