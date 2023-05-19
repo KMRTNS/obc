@@ -16,7 +16,7 @@
   - [X] [Tags básicas do HTML](https://cronograma-ignite.notion.site/Tags-b-sicas-do-HTML-fae73ca807254352b517f733f11b1fdd)
   - [X] [Listas no HTML](https://cronograma-ignite.notion.site/Listas-no-HTML-dab61880bf9e4991a2a90969c600111e)
   - [X] [Exercício: Criando uma lista](https://cronograma-ignite.notion.site/Exerc-cio-Criando-uma-lista-b0194cd161204738af6897feafccdd91)
-  - [ ] [Resolução: Criando uma lista](#)
+  - [X] [Resolução: Criando uma lista](./lists)
   - [ ] [Organizando nosso código com Divs e Span](#)
   - [ ] [Atributos HTML](#)
   - [ ] [Exercício: Guia de galáxias 1](#)
