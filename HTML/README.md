@@ -25,7 +25,7 @@
   - [X] [Exercício: Criando sua primeira tabela](https://cronograma-ignite.notion.site/Exerc-cio-Criando-sua-primeira-Tabela-de546c287b004012950d64194333fcad)
   - [X] [Resolução: Criando sua primeira tabela](https://cronograma-ignite.notion.site/Resolu-o-Criando-sua-primeira-tabela-09fd3e3634634702808fa8647aa9cd8a)
   - [X] [Conhecendo os Forms](https://cronograma-ignite.notion.site/Conhecendo-os-Forms-94eba249669146d888bee57c0ed4db41)
-  - [ ] [Criando um form para pesquisar no Google](https://cronograma-ignite.notion.site/Criando-um-form-para-pesquisar-no-Google-3daf5b5c2402433191860f31ea18f353)
+  - [X] [Criando um form para pesquisar no Google](https://cronograma-ignite.notion.site/Criando-um-form-para-pesquisar-no-Google-3daf5b5c2402433191860f31ea18f353)
   - [ ] [Validação de forms](https://cronograma-ignite.notion.site/Valida-o-de-forms-eecd84c1de9d4fac9d470118c2527451)
   - [ ] [Aprofundando nos Inputs](https://cronograma-ignite.notion.site/Aprofundando-nos-Inputs-dd48dbbdcaa0451ebe82edce5865c93a)
   - [ ] [Exercício: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Exerc-cio-Criando-seu-primeiro-Form-d4a5efa368da4faab894be47cd92bb23)
