@@ -17,7 +17,7 @@
   - [X] [Listas no HTML](https://cronograma-ignite.notion.site/Listas-no-HTML-dab61880bf9e4991a2a90969c600111e)
   - [X] [Exercício: Criando uma lista](https://cronograma-ignite.notion.site/Exerc-cio-Criando-uma-lista-b0194cd161204738af6897feafccdd91)
   - [X] [Resolução: Criando uma lista](https://github.com/KMRTNS/obc/blob/main/HTML/lists/list.html)
-  - [ ] [Organizando nosso código com Divs e Span](https://cronograma-ignite.notion.site/Organizando-nosso-c-digo-com-Divs-e-Span-1a1668d09614479d9acef7a585126445)
+  - [X] [Organizando nosso código com Divs e Span](https://cronograma-ignite.notion.site/Organizando-nosso-c-digo-com-Divs-e-Span-1a1668d09614479d9acef7a585126445)
   - [ ] [Atributos HTML](https://cronograma-ignite.notion.site/Atributos-HTML-b67d8fa33ebf4440b7717fd5e3ccb952)
   - [ ] [Exercício: Guia de galáxias 1](https://cronograma-ignite.notion.site/Exerc-cio-Guia-de-gal-xias-19273701596b42f4a2d08e45218bb351)
   - [ ] [Resolução: Guia de galáxias 2](https://cronograma-ignite.notion.site/Resolu-o-Guia-de-Gal-xias-0c6512aec2cd4d859eedaf0963e1ad43)
