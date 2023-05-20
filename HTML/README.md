@@ -20,7 +20,7 @@
   - [X] [Organizando nosso código com Divs e Span](https://cronograma-ignite.notion.site/Organizando-nosso-c-digo-com-Divs-e-Span-1a1668d09614479d9acef7a585126445)
   - [X] [Atributos HTML](https://cronograma-ignite.notion.site/Atributos-HTML-b67d8fa33ebf4440b7717fd5e3ccb952)
   - [X] [Exercício: Guia de galáxias 1](https://cronograma-ignite.notion.site/Exerc-cio-Guia-de-gal-xias-19273701596b42f4a2d08e45218bb351)
-  - [ ] [Resolução: Guia de galáxias 2](https://cronograma-ignite.notion.site/Resolu-o-Guia-de-Gal-xias-0c6512aec2cd4d859eedaf0963e1ad43)
+  - [X] [Resolução: Guia de galáxias 2](https://cronograma-ignite.notion.site/Resolu-o-Guia-de-Gal-xias-0c6512aec2cd4d859eedaf0963e1ad43)
   - [ ] [Criando Tabelas](https://cronograma-ignite.notion.site/Criando-Tabelas-15b10f7a4a6b4b0fb142112f0d305875)
   - [ ] [Exercício: Criando sua primeira tabela](https://cronograma-ignite.notion.site/Exerc-cio-Criando-sua-primeira-Tabela-de546c287b004012950d64194333fcad)
   - [ ] [Resolução: Criando sua primeira tabela](https://cronograma-ignite.notion.site/Resolu-o-Criando-sua-primeira-tabela-09fd3e3634634702808fa8647aa9cd8a)
