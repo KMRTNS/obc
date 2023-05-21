@@ -34,7 +34,7 @@
   - [X] [Leituras recomendadas](https://cronograma-ignite.notion.site/Leituras-recomendadas-6ddcf47f18164464a8239fe9b67b09bb)
   - [X] [Elementos semânticos do HTML 5](https://cronograma-ignite.notion.site/Elementos-sem-nticos-do-HTML-5-8bb845d4f4c249d4bf55febcc470c672)
   - [X] [Exercício: Criando um site completo](https://cronograma-ignite.notion.site/Exerc-cio-Criando-um-site-completo-612c7ff93ab244fbb683fbca92cd9ae4)
-  - [ ] [Resolução: Criando um site completo](https://cronograma-ignite.notion.site/Resolu-o-Criando-um-site-completo-87e0d16179e44403918103a75eb39db8)
+  - [X] [Resolução: Criando um site completo](https://cronograma-ignite.notion.site/Resolu-o-Criando-um-site-completo-87e0d16179e44403918103a75eb39db8)
   - [ ] [Prova de conclusão](#)
 
 ---
