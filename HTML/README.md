@@ -29,7 +29,7 @@
   - [X] [Validação de forms](https://cronograma-ignite.notion.site/Valida-o-de-forms-eecd84c1de9d4fac9d470118c2527451)
   - [X] [Aprofundando nos Inputs](https://cronograma-ignite.notion.site/Aprofundando-nos-Inputs-dd48dbbdcaa0451ebe82edce5865c93a)
   - [X] [Exercício: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Exerc-cio-Criando-seu-primeiro-Form-d4a5efa368da4faab894be47cd92bb23)
-  - [ ] [Resolução: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Resolu-o-Criando-seu-primeiro-Form-f380a7f655dd4e33a0254af7a93c36fa)
+  - [X] [Resolução: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Resolu-o-Criando-seu-primeiro-Form-f380a7f655dd4e33a0254af7a93c36fa)
   - [ ] [Novidades do HTML5](https://cronograma-ignite.notion.site/Novidades-do-HTML5-4e1387d5825d487fbabc728c5ffb66d0)
   - [ ] [Leituras recomendadas](https://cronograma-ignite.notion.site/Leituras-recomendadas-6ddcf47f18164464a8239fe9b67b09bb)
   - [ ] [Elementos semânticos do HTML 5](https://cronograma-ignite.notion.site/Elementos-sem-nticos-do-HTML-5-8bb845d4f4c249d4bf55febcc470c672)
