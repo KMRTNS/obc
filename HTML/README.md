@@ -27,7 +27,7 @@
   - [X] [Conhecendo os Forms](https://cronograma-ignite.notion.site/Conhecendo-os-Forms-94eba249669146d888bee57c0ed4db41)
   - [X] [Criando um form para pesquisar no Google](https://cronograma-ignite.notion.site/Criando-um-form-para-pesquisar-no-Google-3daf5b5c2402433191860f31ea18f353)
   - [X] [Validação de forms](https://cronograma-ignite.notion.site/Valida-o-de-forms-eecd84c1de9d4fac9d470118c2527451)
-  - [ ] [Aprofundando nos Inputs](https://cronograma-ignite.notion.site/Aprofundando-nos-Inputs-dd48dbbdcaa0451ebe82edce5865c93a)
+  - [X] [Aprofundando nos Inputs](https://cronograma-ignite.notion.site/Aprofundando-nos-Inputs-dd48dbbdcaa0451ebe82edce5865c93a)
   - [ ] [Exercício: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Exerc-cio-Criando-seu-primeiro-Form-d4a5efa368da4faab894be47cd92bb23)
   - [ ] [Resolução: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Resolu-o-Criando-seu-primeiro-Form-f380a7f655dd4e33a0254af7a93c36fa)
   - [ ] [Novidades do HTML5](https://cronograma-ignite.notion.site/Novidades-do-HTML5-4e1387d5825d487fbabc728c5ffb66d0)
