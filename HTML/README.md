@@ -31,7 +31,7 @@
   - [X] [Exercício: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Exerc-cio-Criando-seu-primeiro-Form-d4a5efa368da4faab894be47cd92bb23)
   - [X] [Resolução: Criando seu primeiro Form](https://cronograma-ignite.notion.site/Resolu-o-Criando-seu-primeiro-Form-f380a7f655dd4e33a0254af7a93c36fa)
   - [X] [Novidades do HTML5](https://cronograma-ignite.notion.site/Novidades-do-HTML5-4e1387d5825d487fbabc728c5ffb66d0)
-  - [ ] [Leituras recomendadas](https://cronograma-ignite.notion.site/Leituras-recomendadas-6ddcf47f18164464a8239fe9b67b09bb)
+  - [X] [Leituras recomendadas](https://cronograma-ignite.notion.site/Leituras-recomendadas-6ddcf47f18164464a8239fe9b67b09bb)
   - [ ] [Elementos semânticos do HTML 5](https://cronograma-ignite.notion.site/Elementos-sem-nticos-do-HTML-5-8bb845d4f4c249d4bf55febcc470c672)
   - [ ] [Exercício: Criando um site completo](https://cronograma-ignite.notion.site/Exerc-cio-Criando-um-site-completo-612c7ff93ab244fbb683fbca92cd9ae4)
   - [ ] [Resolução: Criando um site completo](https://cronograma-ignite.notion.site/Resolu-o-Criando-um-site-completo-87e0d16179e44403918103a75eb39db8)
