@@ -8,7 +8,7 @@
 
 ---
 
-- [ ] [Objetivos deste módulo](#)
+- [ ] [Objetivos deste módulo](https://cronograma-ignite.notion.site/Objetivos-deste-m-dulo-f7301d43f60944e6a1d489c97fb14865)
 - [ ] [Básico do CSS](#)
 - [ ] [Primeiro CSS](#)
 - [ ] [Cores no CSS](#)
