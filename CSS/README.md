@@ -25,7 +25,7 @@
 - [ ] [Box Model](#)
 - [ ] [Exercício: Recriando um site com CSS #2](#)
 - [ ] [Resolução: Recriando um site com CSS #2](#)
-- [ ] [Prova de conclusão com certificado](#)
+- [ ] [Prova de conclusão](#)
 
 ---
 
