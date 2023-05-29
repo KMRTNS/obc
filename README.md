@@ -7,7 +7,7 @@
 ---
 
 - [X] [HTML 5](./HTML)
-- [ ] [CSS 3](./CSS)
+- [X] [CSS 3](./CSS)
 - [ ] [CSS Moderno](#)
 - [ ] [Lógica de Programação](#)
 - [ ] [DOM](#)
