@@ -18,7 +18,7 @@
 - [X] [Seletores mais avançados](https://cronograma-ignite.notion.site/Seletores-mais-avan-ados-666a7cd7d26f433b80bb5aa7cda34ccf)
 - [X] [Especificidade](https://cronograma-ignite.notion.site/Especificidade-85c16858ec2d407b80e5f5485b709451)
 - [X] [Herança](https://cronograma-ignite.notion.site/Heran-a-6406dd3a99034cf3a817b0f2c08e0288)
-- [ ] [Exercício: Recriando um site com CSS #1](#)
+- [X] [Exercício: Recriando um site com CSS #1](https://cronograma-ignite.notion.site/Exerc-cio-Recriando-um-site-com-CSS-1-3aae187e55fb431aab722511c00708b7)
 - [ ] [Resolução: Recriando um site com CSS #1](#)
 - [ ] [Texto e Fontes](#)
 - [ ] [Usando o Google Fonts](#)
