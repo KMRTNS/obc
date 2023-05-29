@@ -14,7 +14,7 @@
 - [X] [Cores no CSS](https://cronograma-ignite.notion.site/Cores-no-CSS-eddba7861c774820bc6e520df483ac78)
 - [X] [Background e Borders](https://cronograma-ignite.notion.site/Background-e-Borders-93ef1e6845b6495ebba305229b6dce27)
 - [X] [Seletores](https://cronograma-ignite.notion.site/Seletores-e241d94825114e45ab3b68391f55d7c4)
-- [ ] [Inspetor do Chrome](#)
+- [X] [Inspetor do Chrome](https://cronograma-ignite.notion.site/Inspetor-do-Chrome-abfcc8f323a34b1d8b4c5ea2032e6fd6)
 - [ ] [Seletores mais avançados](#)
 - [ ] [Especificidade](#)
 - [ ] [Herança](#)
