@@ -11,7 +11,7 @@
 - [X] [Objetivos deste módulo](https://cronograma-ignite.notion.site/Objetivos-deste-m-dulo-f7301d43f60944e6a1d489c97fb14865)
 - [X] [Básico do CSS](https://cronograma-ignite.notion.site/B-sico-do-CSS-1d8944d176b741cea5bf27003d019051)
 - [ ] [Primeiro CSS](https://cronograma-ignite.notion.site/Primeiro-CSS-a5a45463d7e844a387b17082e549a856)
-- [ ] [Cores no CSS](#)
+- [ ] [Cores no CSS](https://cronograma-ignite.notion.site/Cores-no-CSS-eddba7861c774820bc6e520df483ac78)
 - [ ] [Background e Borders](#)
 - [ ] [Seletores](#)
 - [ ] [Inspetor do Chrome](#)
