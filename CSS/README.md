@@ -12,7 +12,7 @@
 - [X] [Básico do CSS](https://cronograma-ignite.notion.site/B-sico-do-CSS-1d8944d176b741cea5bf27003d019051)
 - [ ] [Primeiro CSS](https://cronograma-ignite.notion.site/Primeiro-CSS-a5a45463d7e844a387b17082e549a856)
 - [ ] [Cores no CSS](https://cronograma-ignite.notion.site/Cores-no-CSS-eddba7861c774820bc6e520df483ac78)
-- [ ] [Background e Borders](#)
+- [ ] [Background e Borders](https://cronograma-ignite.notion.site/Background-e-Borders-93ef1e6845b6495ebba305229b6dce27)
 - [ ] [Seletores](#)
 - [ ] [Inspetor do Chrome](#)
 - [ ] [Seletores mais avançados](#)
