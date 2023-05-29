@@ -21,7 +21,7 @@
 - [X] [Exercício: Recriando um site com CSS #1](https://cronograma-ignite.notion.site/Exerc-cio-Recriando-um-site-com-CSS-1-3aae187e55fb431aab722511c00708b7)
 - [X] [Resolução: Recriando um site com CSS #1](https://cronograma-ignite.notion.site/Resolu-o-Recriando-um-site-com-CSS-1-4e5c8345b1f1422c8a263171ce0b1db9)
 - [X] [Texto e Fontes](https://cronograma-ignite.notion.site/Texto-e-Fontes-5bc541cc276d4b4983ffc9562bb7bb5b)
-- [ ] [Usando o Google Fonts](#)
+- [X] [Usando o Google Fonts](https://cronograma-ignite.notion.site/Usando-o-Google-Fonts-ff98e65c124241f2af947f4d7e649531)
 - [ ] [Box Model](#)
 - [ ] [Exercício: Recriando um site com CSS #2](#)
 - [ ] [Resolução: Recriando um site com CSS #2](#)
